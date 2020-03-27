@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Vue Now UI Kit](https://demos.creative-tim.com/vue-now-ui-kit) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Vue%20Now%20UI%20Kit,%20a%20free%20Vue.js%20Bootstrap%204%20UI%20Kit%20%E2%9D%A4%EF%B8%8Fhttps://bit.ly/2OLFzVl%20%23bootstrap%20%23vue.js%20%23design%20%23developers%20%23freebie%20%20via%20%40CreativeTim&source=webclient)
 
 
@@ -150,3 +151,7 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+=======
+# Vue-Now-UI-Kit
+FREE BOOTSTRAP VUE.JS UI KIT
+>>>>>>> df82e6d739d0254b3a917998ebf7fdde7a883bab
